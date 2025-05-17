@@ -1,0 +1,8 @@
+accelerate launch render.py \
+    --gin_configs=configs/360.gin \
+    --gin_bindings="Config.data_dir = '${DATA_DIR}'" \
+    --gin_bindings="Config.exp_name = '${EXP_NAME}'" \
+    --gin_bindings="Config.render_path = True" \
+    --gin_bindings="Config.render_path_frames = 480" \
+    --gin_bindings="Config.render_video_fps = 60" \
+    --gin_bindings="Config.factor = 4"  
