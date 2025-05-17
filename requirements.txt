@@ -1,5 +1,5 @@
 numpy
-torch
+torch==2.5.1+cu121 --find-links https://download.pytorch.org/whl/torch_stable.html
 absl_py
 accelerate
 gin_config

@@ -1,0 +1,4 @@
+# ninja log v5
+1	222895	1747494481611538378	/app/zipnerf-pytorch/extensions/cuda/build/temp.linux-x86_64-cpython-39/app/zipnerf-pytorch/extensions/cuda/src/pdf.o	3e3fc9b12611bca
+1	382893	1747494641595084162	/app/zipnerf-pytorch/extensions/cuda/build/temp.linux-x86_64-cpython-39/app/zipnerf-pytorch/extensions/cuda/src/gridencoder.o	981a6b8f284ff6ab
+16	18270	1747495169481497144	/app/zipnerf-pytorch/extensions/cuda/build/temp.linux-x86_64-cpython-39/app/zipnerf-pytorch/extensions/cuda/src/bindings.o	648a9253762c89f4
